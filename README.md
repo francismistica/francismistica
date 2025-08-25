@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LargaNa!**
 
-- 🌱 I’m currently learning **ML, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Data Science**
 
 - 👨‍💻 All of my projects are available at [https://francismistica.netlify.app/](https://francismistica.netlify.app/)
 
